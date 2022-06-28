@@ -1,1 +1,1 @@
-# InSOrma-mcs-lab-project
+# InSOrma
