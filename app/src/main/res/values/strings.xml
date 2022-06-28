@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">InSOrma</string>
+    <string name="title_activity_about_page">Map</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
